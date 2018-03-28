@@ -12,4 +12,4 @@ Declarative paradigma nədir?
 Qeyd: Cavablar Azərbaycan dilində və öz sözlərinizlə yazılmalıdır. 
 
 
-## Mənim mövzu haqqındakı ətraflı yazımı yuxarıda şəkil faylından görə bilərsiniz.
+## Mənim mövzu haqqındakı ətraflı yazımı yuxarıda yerləşdirdiyim faylı açaraq görə bilərsiniz.
