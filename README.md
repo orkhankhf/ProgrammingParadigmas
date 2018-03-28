@@ -63,7 +63,7 @@ Paralel  programlaşdırma böyük əmrlərin  və ya böyük problemlərin hiss
 * Procedual Programming
 Procedual programlaşdırma anladığım qədərilə functional kimidir. Hətta funksiyalara, altyordama və ya altprograma dayanır. Amma ki, daha çox riyazi funksiyaları Procedual Programminglə yerinə yetirmək mümkün olur. Məsələn bir marketdə alıcının aldığı məhsulun barkodunu satıcı barkod oxuyucu vasitəsilə programa tanıdır. İndiki fresco marketlərdə hətta ən ara məhəllələrdə belə maşallah məhsulun adı, tarixi, endirim faizi, hansı şirkətə məxsus olduğu vs. vs. hamısı çıxır. Burda barkod oxuyucuda biz Procedual Programming ilə, faizi hesablamaq, müştərinin verdiyi 10 manatdan 2 manat məhsulun dəyərini çıxıb, qaytaracağımız zdaçinin 8 manat olduğunu hesablamaq kimi şeylərdir. Hansı şirkətə məxsus olduğu, satıcının adı falan filan onları isə Functional Programminglə edirik. Birdəki Hocam bir şeyi anlamadım düzü, araşdırmalarda belə bir məlumat əldə etdim ki, Functional programla bir neçə funksiya arasında əlaqə yaratmaq, iki functionu birləşdirmək falan mümkün olur. Amma bu procedual da olmur. Zənnimcə bəlkədə toplama çıxma kimi functionları yerinə yetirir. Amma normal bildiyimiz function kimi bir neçə yerdə çağırıla bilir funksiyalar procedual programmingdə.
 
-2. Declarative Programming 
+* Declarative Programming 
 Declarative programlaşdırma araştırmalarımdan bu nəticəni çıxardım ki, məsələn XAML ilə bir button əmələ gətirmək üçün:
 	<button name="my_btn" width="120 height="120">Klik et</button>
 yuxarıdakı kodu yazırıq. Lakin Declarative olan C# ilə sanki qruery ilə bir buttonun attributuna müdaxilə edərmişcəsinə müdaxilə edirik Hocam :)
